@@ -82,14 +82,18 @@ xnor ( y7,a,b);
 endmodule
 ```
 **Logic symbol**
+
 ![Experiment 1 RTL](https://github.com/Infanciafelcy/study-of-basic-gates/assets/155411010/552c2b17-1e18-4e13-89cf-af4719427db2)
 **Truth Table**
+
 ![experiment1 screenshot](https://github.com/Infanciafelcy/study-of-basic-gates/assets/155411010/760d7f18-c747-4d39-834c-3e017ce28460)
 
 **Waveform**
+
 ![Experiment 1 waveform](https://github.com/Infanciafelcy/study-of-basic-gates/assets/155411010/71db2bce-b36e-4723-b10c-2ae09edc1f19)
 
 **Result:**
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
