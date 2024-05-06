@@ -84,6 +84,8 @@ endmodule
 **Logic symbol**
 
 ![Experiment 1 RTL](https://github.com/Infanciafelcy/study-of-basic-gates/assets/155411010/552c2b17-1e18-4e13-89cf-af4719427db2)
+
+
 **Truth Table**
 
 ![experiment1 screenshot](https://github.com/Infanciafelcy/study-of-basic-gates/assets/155411010/760d7f18-c747-4d39-834c-3e017ce28460)
